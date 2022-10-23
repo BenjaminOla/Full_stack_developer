@@ -1,0 +1,21 @@
+Full stack developer
+A full stack developer is a person knowledgeable in front end development and back end development of websites or sofware.
+
+Tools use by full stack developer
+1. laptop
+2. version control e.g Git & github
+3. Integrated Development Environment e.g Visual studio code, subline, vim
+4. Package managers e.g npm, yarn 
+5. Build tools e.g webpack, parcel, gulp
+6. javascript frame work
+
+Languages full stack developer use
+1. html-hyper text markup language
+2. CSS- carscading style sheet
+3. Javascript
+4. PHP
+5. SQL
+6. python
+7. C#
+6. Node JS
+
